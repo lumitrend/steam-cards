@@ -51,6 +51,9 @@
 | NUXT_STEAM_KEY      | [Steam Api Key](https://steamcommunity.com/dev/apikey) | 5B23D7ECExxxxxxB58C57BC242 |
 | NUXT_CACHE_TIME   | 请求缓存时间(秒)  | 3600 |
 
+ > 获取Api Key的时候填写域名为项目域名，比如你的项目域名为 `https://card.domain.com` ，那么申请key的时候提示;域名名称
+ > 填入:`cord.domain.com` 不带HTTP/HTTPS状态码和结尾的反斜杠 `/`
+
 ### PaaS
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyuyinws%2Fsteam-card&env=NUXT_STEAM_KEY,CACHE_TIME)
