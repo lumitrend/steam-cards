@@ -1,0 +1,75 @@
+{
+  "system": {
+    "slogan": "⚡ Generate your Steam profile card quickly",
+    "or": "or",
+    "login": "Login with Steam",
+    "steamid": "Enter SteamID",
+    "generate": "Generate card",
+    "add": "Add",
+    "add-account": "Add account",
+    "sign-out": "Sign out",
+    "copy-success": "Copy success",
+    "copy-fail": "Copy fail",
+    "preview": "Preview"
+  },
+  "toast": {
+    "login-fail": "Login Failed",
+    "add-account-success": "Account added successfully",
+    "alreay-exist": "Account already exist"
+  },
+  "config": {
+    "name": "Config",
+    "theme": "Theme",
+    "text-color": "Text color",
+    "eg": "Example",
+    "bg": {
+      "name": "Background type",
+      "color": "Color",
+      "game-cover": "Game cover",
+      "bg-color": "Background color",
+      "bg-color-helper": "Enter multiple values to create a gradient color",
+      "bg-game-id": "Game's appid",
+      "bg-game-helper": "If empty, take the highest game duration"
+    },
+    "statistics": {
+      "name": "Statistics",
+      "groups": "Groups",
+      "badges": "Badges",
+      "games": "Games",
+      "screenshots": "Screenshots",
+      "guides": "Guides",
+      "artworks": "Artworks",
+      "reviews": "Reviews",
+      "help": "Choose up to 3"
+    },
+    "icon": {
+      "name": "Icon",
+      "badge": "Badge icon",
+      "group": "Group icon",
+      "helper": "Whether to display icons"
+    }
+  },
+  "themes": {
+    "dark": "dark",
+    "light": "light",
+    "radical": "radical",
+    "tokyonight": "tokyonight",
+    "solarized-light": "solarized-light",
+    "ocean-dark": "ocean-dark",
+    "gradient1": "gradient1",
+    "gradient2": "gradient2",
+    "gradient3": "gradient3"
+  },
+  "preset": {
+    "name": "Preset",
+    "preset-name": "Preset name",
+    "load-preset": "Load preset",
+    "save-preset": "Save preset",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "preset-saved": "Preset saved",
+    "preset-saved-fail": "Preset save failed",
+    "preset-loaded": "Preset loaded",
+    "preset-loaded-fail": "Preset load failed"
+  }
+}

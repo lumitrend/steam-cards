@@ -1,0 +1,76 @@
+{
+  "system": {
+    "slogan": "⚡ 快速生成你的Steam资料卡片",
+    "or": "或",
+    "login": "Steam 登录",
+    "steamid": "请输入 SteamID",
+    "generate": "生成卡片",
+    "add": "添加",
+    "add-account": "添加账号",
+    "sign-out": "退出登录",
+    "copy-success": "复制成功",
+    "copy-fail": "复制失败",
+    "preview": "预览"
+  },
+  "toast": {
+    "login-fail": "登录失败",
+    "add-account-success": "账号添加成功",
+    "alreay-exist": "账号已存在"
+  },
+  "config": {
+    "name": "配置",
+    "theme": "主题",
+    "text-color": "文本颜色",
+    "eg": "示例",
+    "bg": {
+      "name": "背景类型",
+      "color": "颜色",
+      "game-cover": "游戏封面",
+      "bg-color": "背景颜色值",
+      "bg-color-helper": "输入多个值以创建渐变色",
+      "bg-game-id": "游戏的appid",
+      "bg-game-helper": "如果为空，则取用户游戏时长最高的游戏"
+    },
+    "statistics": {
+      "name": "统计信息",
+      "groups": "群组",
+      "badges": "徽章",
+      "games": "游戏",
+      "screenshots": "截图",
+      "guides": "指南",
+      "artworks": "艺术作品",
+      "reviews": "评测",
+      "preview": "预览",
+      "help": "最多选择3个"
+    },
+    "icon": {
+      "name": "图标",
+      "badge": "徽章图标",
+      "group": "群组图标",
+      "helper": "是否显示图标"
+    }
+  },
+  "themes": {
+    "dark": "暗色",
+    "light": "亮色",
+    "radical": "暗夜亮",
+    "tokyonight": "霓虹黑",
+    "solarized-light": "日光亮",
+    "ocean-dark": "海洋黑",
+    "gradient1": "渐变色1",
+    "gradient2": "渐变色2",
+    "gradient3": "渐变色3"
+  },
+  "preset": {
+    "name": "预设",
+    "preset-name": "预设名称",
+    "load-preset": "加载预设",
+    "save-preset": "保存预设",
+    "confirm": "确认",
+    "cancel": "取消",
+    "preset-saved": "预设已保存",
+    "preset-saved-fail": "预设保存失败",
+    "preset-loaded": "预设已加载",
+    "preset-loaded-fail": "预设加载失败"
+  }
+}
