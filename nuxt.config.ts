@@ -18,16 +18,16 @@ export default defineNuxtConfig({
     strategy: 'no_prefix',
     locales: [
       {
-        code: 'en',
-        iso: 'en',
-        file: 'en.json',
-        name: 'English',
-      },
-      {
         code: 'zhCN',
         iso: 'zh-CN',
         file: 'zh-CN.json',
         name: '简体中文',
+      },
+      {
+        code: 'en',
+        iso: 'en',
+        file: 'en.json',
+        name: 'English',
       },
     ],
     detectBrowserLanguage: {
